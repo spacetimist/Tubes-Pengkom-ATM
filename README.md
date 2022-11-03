@@ -1,5 +1,5 @@
 # ATM
-Tugas Besar Mata Kuliah KU1102 Pengenalan Komputasi K-21 Semester 1
+Tugas Besar 1 Mata Kuliah KU1102 Pengenalan Komputasi K-21 Semester 1
 
 Program ATM sederhana yang mencakup fungsi Cek Saldo, Tarik Tunai, Transfer, dan Ganti Pin.
 
