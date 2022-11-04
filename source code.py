@@ -165,7 +165,7 @@ for j in range(3):
     elif pin != p.pin:
         print("PIN salah")
         pin = str(input(">> Masukkan PIN: "))
-print("\n  +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+")
-print("/            Transaksi selesai           \\")
-print("\ Terima kasih telah menggunakan ATM ini /")
-print("  +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-")
+print("\n        +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-")
+print("      /            Transaksi selesai           \\")
+print("      \ Terima kasih telah menggunakan ATM ini /")
+print("        +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-")
