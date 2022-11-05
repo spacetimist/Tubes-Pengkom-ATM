@@ -9,3 +9,5 @@ Kelompok 9:
 3. Albert - 19622027
 4. Yasra Zhafirah - 19622117
 5. Akmal Galih Aji Sugmo Seno - 19622157
+
+LINK Video Presentasi: https://drive.google.com/file/d/1wuIy-f3OXWGqx4_cIjg94xFq5kAg_b-o/view
